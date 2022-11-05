@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anthony198706
+- 👋 Hi, I’m Anthony
 - 👀 I’m interested in backend technology and devops
 - 🌱 I’m currently learning Terraform, Docker, and Python.
 
